@@ -1,2 +1,3 @@
 # vwartclub.com-Scraping
- Khalid's project, to scrap and to collect names and details on studios in vwartclub.com
+
+the objectif is to scrap and to collect Studio's names and details in vwartclub.com
